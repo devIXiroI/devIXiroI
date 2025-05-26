@@ -2,8 +2,6 @@
 
 **devIXiroI/devIXiroI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 🔭 Currently working on flutter_chempionship_2025 
 
 🌱 Currently learning to code in Flutter
