@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Human 👋
 
 🔭 Currently working on flutter_chempionship_2025 
 
