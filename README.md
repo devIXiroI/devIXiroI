@@ -1,5 +1,6 @@
 ## Hi Human 👋
-
+<img align="right" alt="gif" widht="500" height="270"
+scr=""
 🔭 Currently working on flutter_chempionship_2025 
 
 🌱 Currently learning to code in Flutter
