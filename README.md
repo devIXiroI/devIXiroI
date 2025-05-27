@@ -1,4 +1,4 @@
-<img align="right" alt="gif" widht="500" height="270" src="https://github.com/devIXiroI/devIXiroI/blob/main/maxwell-%D0%BC%D0%B0%D0%BA%D1%81%D0%B2%D0%B5%D0%BB.gif">
+<img align="right" alt="gif" widht="500" height="400" src="https://github.com/devIXiroI/devIXiroI/blob/main/maxwell-%D0%BC%D0%B0%D0%BA%D1%81%D0%B2%D0%B5%D0%BB.gif">
 ## Hi Human 👋
 
 🔭 Currently working on flutter_chempionship_2025 
