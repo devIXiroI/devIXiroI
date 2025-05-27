@@ -14,8 +14,8 @@
 
 😄 Pronouns: cat/cats
 
-⚡ Fun fact: I love sleeping and meme cats
-## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+⚡ Fun fact: I love sleeping and meme cats ## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+ㅤㅤㅤ
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=devixiroi&show_icons=true&locale=en" alt="devixiroi" /></p>
 
 
