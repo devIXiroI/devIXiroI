@@ -2,21 +2,15 @@
 
 <img align="right" alt="gif" widht="200" height="300" src="https://github.com/devIXiroI/devIXiroI/blob/main/maxwell-%D0%BC%D0%B0%D0%BA%D1%81%D0%B2%D0%B5%D0%BB.gif">
 
-- I'm a beginner developer.
+- I'm a beginner developer.  (=^･ω･^=)
 
-- I love cat memes.
+- Love cat memes and sleep. 😺
 
-🌱 Currently learning to code in Flutter
+- I am learning to code in Flutter for Android. At the moment my main project is flutter_chempionship_2025
 
-🤔 I'm looking for help writing flutter_chempionship_2025
+- How to contact me: email, telegram.
 
-.💬 Ask me about my love for food
-
-📫 How to contact me: email
-
-😄 Pronouns: cat/cats
-
-⚡ Fun fact: I love sleeping and meme cats
+- Pronouns: cat/cats
 ## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤ
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=devixiroi&show_icons=true&locale=en" alt="devixiroi" /></p>
