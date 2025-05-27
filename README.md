@@ -13,9 +13,9 @@
 📫 How to contact me: email
 
 😄 Pronouns: cat/cats
-## ㅤ
 
 ⚡ Fun fact: I love sleeping and meme cats
+## ㅤ
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=devixiroi&show_icons=true&locale=en" alt="devixiroi" /></p>
 
 
