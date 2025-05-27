@@ -11,6 +11,7 @@
 - How to contact me: email, telegram.
 
 - Pronouns: cat/cats
+  <img align="right" alt="gif" widht="200" height="300" src="https://github.com/devIXiroI/devIXiroI/blob/main/maxwell-%D0%BC%D0%B0%D0%BA%D1%81%D0%B2%D0%B5%D0%BB.gif">
 ## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤ
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=devixiroi&show_icons=true&locale=en" alt="devixiroi" /></p>
