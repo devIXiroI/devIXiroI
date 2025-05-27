@@ -11,6 +11,7 @@
 - How to contact me: email, telegram.
 
 - Pronouns: cat/cats
+ 
   <img align="left" alt="gif" widht="200" height="200" src="https://github.com/devIXiroI/devIXiroI/blob/main/%D0%9D%D0%B0%D0%B9%D0%B4%D0%B5%D0%BD%D0%BE%20%D0%BD%D0%B0%20GIFER.gif">
 ## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤ
