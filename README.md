@@ -1,6 +1,6 @@
 ## Hi Human 👋
 
-<img align="right" alt="gif" widht="200" height="250" src="https://github.com/devIXiroI/devIXiroI/blob/main/maxwell-%D0%BC%D0%B0%D0%BA%D1%81%D0%B2%D0%B5%D0%BB.gif">
+<img align="right" alt="gif" width="200" height="250" src="https://github.com/devIXiroI/devIXiroI/blob/main/maxwell-%D0%BC%D0%B0%D0%BA%D1%81%D0%B2%D0%B5%D0%BB.gif">
 
 - I'm a beginner developer.  (=^･ω･^=)
 
