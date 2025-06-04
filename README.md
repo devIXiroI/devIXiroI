@@ -20,7 +20,7 @@
 ㅤ
 
 ㅤㅤㅤ
-<p>&nbsp;<img align="right" alt="gif" width="380" height="250" src="https://github-readme-stats.vercel.app/api?username=devixiroi&show_icons=true&locale=en" alt="devixiroi" /></p>
+<p>&nbsp;<img align="right" alt="gif" width="380" height="350" src="https://github-readme-stats.vercel.app/api?username=devixiroi&show_icons=true&locale=en" alt="devixiroi" /></p>
 
 
 
