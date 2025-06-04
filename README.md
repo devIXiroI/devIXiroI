@@ -12,7 +12,7 @@
 
 - Pronouns: cat/cats
  
-  <img align="left" alt="gif" widht="300" height="150" src="https://github.com/devIXiroI/devIXiroI/blob/main/aq38c844r6771.gif">
+  <img align="left" alt="gif" widht="300" height="100" src="https://github.com/devIXiroI/devIXiroI/blob/main/aq38c844r6771.gif">
 ## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤ
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=devixiroi&show_icons=true&locale=en" alt="devixiroi" /></p>
