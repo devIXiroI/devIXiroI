@@ -30,12 +30,6 @@
 
 
 
-
-
-
-
-
-
 - 
 - <p align="left"> <img height="23" src="https://komarev.com/ghpvc/?username=devixiroi&label=Profile%20views&color=0e75b6&style=flat" alt="devixiroi" /> </p>
 <h3 align="left">Languages and Tools:</h3>
