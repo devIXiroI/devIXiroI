@@ -12,7 +12,7 @@
 
 - Pronouns: cat/cats
  
-  <img align="left" alt="gif" width="100" height="100" src="https://github.com/devIXiroI/devIXiroI/blob/main/aq38c844r6771.gif">
+  <img align="left" alt="gif" width="100" height="150" src="https://github.com/devIXiroI/devIXiroI/blob/main/aq38c844r6771.gif">
 ## ㅤ
 ㅤ
 ㅤㅤㅤ
