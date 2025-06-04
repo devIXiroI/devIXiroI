@@ -6,7 +6,7 @@
 
 - Love cat memes and sleep. 😺
 
-- I am learning to code in Flutter for Android. At the moment my main project is flutter_chempionship_2025
+- I am learning to code in Flutter for Android.  At the moment my main project is flutter_chempionship_2025
 
 - How to contact me: email, telegram.
 
