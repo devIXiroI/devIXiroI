@@ -21,7 +21,7 @@
 
 
 ㅤㅤㅤ
-<p>&nbsp;<img align="right" align="bottom" alt="gif" height="193" src="https://github-readme-stats.vercel.app/api?username=devixiroi&show_icons=true&locale=en" alt="devixiroi" /></p>
+<p>&nbsp;<img align="bottom" alt="gif" height="193" src="https://github-readme-stats.vercel.app/api?username=devixiroi&show_icons=true&locale=en" alt="devixiroi" /></p>
 
 
 
